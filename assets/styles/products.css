@@ -1,0 +1,123 @@
+.products{
+   min-height: 130vh;
+}
+
+.products__wrapper{
+   font-size: 16px;
+   width: 100%;
+   display: grid;
+   grid-template-columns: 1fr 3fr;
+   grid-template-rows: 1fr;
+   gap: 5px;
+   margin-top: 30px;
+   margin-bottom: 100px;
+}
+
+/* FILTERS */
+.products__wrapper__filters{
+   background-color: white;
+   padding: 10px;
+}
+
+.products__wrapper__filters__item{
+   min-height: 300px;
+   display: none;
+}
+
+.products__wrapper__filters__item.active{
+   display: block;
+}
+
+.products__wrapper__filters__item__list{
+   margin-top: 20px;
+   display: flex;
+   flex-direction: column;
+}
+
+.products__wrapper__filters__item__list__div{
+   display: flex;
+   flex-direction: column;
+   max-height: 150px;
+   overflow: auto;
+}
+
+.products__wrapper__filters__item__list__div__item{
+   text-decoration: none;
+   color: rgb(99, 99, 99);
+   transition: .3s;
+   font-weight: 400;
+   margin-left: 5px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   width: 90%;
+}
+.products__wrapper__filters__item__list__div__item:hover{
+   color:crimson
+}
+
+.products__wrapper__filters__item__list__div__item.active{
+   color: crimson;
+}
+
+.products__wrapper__filters__item__list__div__item.active span{
+   display: block;
+}
+
+.products__wrapper__filters__item__list__div__item span{
+   display: none;
+}
+
+
+
+
+/* ITEMS-CARS */
+.products__wrapper__items{
+   display: flex;
+   flex-direction: column;
+   width: 100%;
+}
+.products__wrapper__items__settings{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   background-color: white;
+   padding: 10px;
+}
+
+.products__wrapper__items__cards{
+   margin-top: 20px;
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   grid-template-rows: auto;
+   width: 100%;
+   gap: 30px 5px;
+}
+
+
+@media (max-width: 1200px) {
+   .products__wrapper__items__cards{
+      grid-template-columns: 1fr 1fr;
+   }
+}
+
+
+@media (max-width: 950px) {
+   .products__wrapper{
+      grid-template-columns: 1fr;
+   }
+}
+
+@media (max-width: 450px) {
+   .products__wrapper__items__cards{
+      grid-template-columns: 1fr; 
+   }
+}
+/* GENERIC CLASS */
+.default__title{
+   font-weight: 400;
+   color: #bbbbbb;
+   font-size: 16px;
+   text-transform: capitalize;
+   margin: 0;
+}

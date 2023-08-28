@@ -1,0 +1,128 @@
+.mycard{
+   border-radius: 5px;
+   cursor: pointer;
+   font-size: 16px;
+   transition: .3s;
+   padding: 0;
+   min-height: 400px;
+   display: grid;
+   grid-template-columns: 1fr;
+   grid-template-rows: 5% 80% 15%;
+   height: 50vh;
+   position: relative;
+   background-color: white;
+}
+
+.mycard.disabled{
+   opacity: .6;
+   cursor: default;
+}
+
+.mycard:hover{
+   transform: translateY(-5px);
+   box-shadow: var(--shadow);
+}
+
+.mycard.disabled:hover{
+   transform: translateY(0px);
+   box-shadow: none;
+}
+
+
+.mycard:hover .mycard__footer{
+   opacity: 1;
+}
+
+.mycard__header{
+   display: flex;
+   justify-content: flex-end;
+   align-items: center;
+}
+
+.mycard__header__betsy{
+   color: crimson;
+   font-size: .8em;
+   font-weight: 800;
+   margin-right: 5px;
+}
+
+
+.mycard__body{
+   background-position: center;
+   background-size: contain;
+   background-repeat: no-repeat;
+}
+
+.mycard__footer{
+   padding: 10px;
+   opacity: 0;
+   transition: .3s ease;
+   box-shadow: var(--shadow);
+   background-color: white;
+
+}
+
+.mycard__footer__title{
+   font-size: 1.2em;
+   font-weight: 300;
+   overflow: hidden;
+   text-overflow: ellipsis;
+   width: 300px;
+   white-space: nowrap;
+}
+
+.mycard__footer__price{
+   font-weight: 600;
+   color: green;
+   font-size: 1.3em;
+}
+
+
+.mycard_sale{
+   position: absolute;
+   top: 1%;
+   left: 1%;
+   font-size: 16px;
+   background-color: crimson;
+   color: white;
+   padding: 5px 10px;
+   border-radius: 5px 0 5px 0;
+}
+
+.mycard_sale.agotado{
+   top: 5%;
+   width: 100%;
+   text-align: center;
+   justify-content: center;
+}
+
+@media (max-width: 950px) {
+   .mycard{
+      height: 40vh;
+      margin-bottom: 40px;
+   }
+
+   .mycard__footer__title{
+      width: 200px;
+   }
+
+   .mycard__footer{
+      opacity: 1;   
+   }
+}
+
+
+
+@media (max-width: 400px) {
+   .mycard{
+      height: 40vh;
+   }
+
+   .mycard__footer__title{
+      width: 170px;
+   }
+
+   .mycard__footer{
+      opacity: 1;   
+   }
+}

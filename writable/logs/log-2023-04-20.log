@@ -1,0 +1,1103 @@
+CRITICAL - 2023-04-20 13:00:45 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/muestra.webp\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:00:46 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/muestra.webp\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:03:36 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/muestra4.webp\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:03:38 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/muestra4.webp\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:10:42 --> syntax error, unexpected token ";", expecting "]"
+in APPPATH\Controllers\Custom.php on line 69.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\gauna_octavio\\app\\Controllers\\Custom.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Custom')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Custom')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Custom', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:10:52 --> syntax error, unexpected token ";", expecting "]"
+in APPPATH\Controllers\Custom.php on line 69.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\gauna_octavio\\app\\Controllers\\Custom.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Custom')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Custom')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Custom', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:10:58 --> syntax error, unexpected token ";", expecting "]"
+in APPPATH\Controllers\Custom.php on line 69.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\gauna_octavio\\app\\Controllers\\Custom.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Custom')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Custom')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Custom', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:11:13 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\Custom.php on line 72.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\gauna_octavio\\app\\Controllers\\Custom.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Custom')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Custom')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Custom', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:11:14 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\Custom.php on line 72.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\gauna_octavio\\app\\Controllers\\Custom.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Custom')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Custom')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Custom', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:13:29 --> Undefined variable $img
+in APPPATH\Views\front\pages\ProductsPage.php on line 73.
+ 1 APPPATH\Views\front\pages\ProductsPage.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $img', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\ProductsPage.php', 73)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\ProductsPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 5 APPPATH\Controllers\Custom.php(74): view('front/pages/productsPage')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:14:14 --> Undefined variable $img
+in APPPATH\Views\front\pages\ProductsPage.php on line 73.
+ 1 APPPATH\Views\front\pages\ProductsPage.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $img', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\ProductsPage.php', 73)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\ProductsPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 5 APPPATH\Controllers\Custom.php(74): view('front/pages/productsPage')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:17:04 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/muestra3.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:17:25 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/muestra3.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:18:22 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/muestra3.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:20:02 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/muestra3.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:20:09 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/muestra3.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:22:34 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/muestra3.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:22:55 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/muestra3.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:23:59 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/muestra3.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:24:40 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/muestra3.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:34:34 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: undefined\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:38:18 --> Unclosed '(' does not match ']'
+in APPPATH\Views\front\pages\ProductsPage.php on line 52.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 3 APPPATH\Controllers\Custom.php(74): view('front/pages/productsPage')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:38:55 --> Unclosed '(' does not match ']'
+in APPPATH\Views\front\pages\ProductsPage.php on line 52.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 3 APPPATH\Controllers\Custom.php(74): view('front/pages/productsPage')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:38:55 --> Unclosed '(' does not match ']'
+in APPPATH\Views\front\pages\ProductsPage.php on line 52.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 3 APPPATH\Controllers\Custom.php(74): view('front/pages/productsPage')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:39:13 --> Undefined constant "length"
+in APPPATH\Views\front\pages\ProductsPage.php on line 52.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 4 APPPATH\Controllers\Custom.php(74): view('front/pages/productsPage')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:43:03 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike2.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:43:03 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike1.png\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:43:03 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike7.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:45:59 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike2.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:46:03 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike2.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:50:01 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike1.png\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:50:01 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike7.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:50:01 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike2.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:51:30 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike1.png\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:51:30 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike2.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:51:30 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike7.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:51:39 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike1.png\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:51:39 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike2.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:51:39 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike7.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:51:54 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike2.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:51:54 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike1.png\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:51:54 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike7.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:56:45 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike2.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:56:45 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike1.png\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:56:45 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike7.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:56:55 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike2.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:56:55 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike7.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:56:55 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike1.png\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:57:05 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike2.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:57:05 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike1.png\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:57:05 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike7.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:59:19 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike2.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:59:19 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike7.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:59:19 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike1.png\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:59:23 --> syntax error, unexpected token ";"
+in APPPATH\Views\front\pages\ProductsPage.php on line 63.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 3 APPPATH\Controllers\Custom.php(82): view('front/pages/productsPage')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 13:59:23 --> syntax error, unexpected token ";"
+in APPPATH\Views\front\pages\ProductsPage.php on line 63.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 3 APPPATH\Controllers\Custom.php(82): view('front/pages/productsPage')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:00:15 --> syntax error, unexpected token ";"
+in APPPATH\Views\front\pages\ProductsPage.php on line 63.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 3 APPPATH\Controllers\Custom.php(82): view('front/pages/productsPage')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:00:15 --> syntax error, unexpected token ";"
+in APPPATH\Views\front\pages\ProductsPage.php on line 63.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 3 APPPATH\Controllers\Custom.php(82): view('front/pages/productsPage')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:00:19 --> syntax error, unexpected token ";"
+in APPPATH\Views\front\pages\ProductsPage.php on line 63.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 3 APPPATH\Controllers\Custom.php(82): view('front/pages/productsPage')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:00:49 --> syntax error, unexpected token ";"
+in APPPATH\Views\front\pages\ProductsPage.php on line 63.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 3 APPPATH\Controllers\Custom.php(82): view('front/pages/productsPage')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:01:32 --> syntax error, unexpected token ";"
+in APPPATH\Views\front\pages\ProductsPage.php on line 63.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 3 APPPATH\Controllers\Custom.php(82): view('front/pages/productsPage')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:01:32 --> syntax error, unexpected token ";"
+in APPPATH\Views\front\pages\ProductsPage.php on line 63.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 3 APPPATH\Controllers\Custom.php(82): view('front/pages/productsPage')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:01:32 --> syntax error, unexpected token ";"
+in APPPATH\Views\front\pages\ProductsPage.php on line 63.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 3 APPPATH\Controllers\Custom.php(82): view('front/pages/productsPage')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:01:36 --> syntax error, unexpected token ";"
+in APPPATH\Views\front\pages\ProductsPage.php on line 63.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 3 APPPATH\Controllers\Custom.php(82): view('front/pages/productsPage')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:01:39 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike1.png\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:01:39 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike7.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:01:39 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike2.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:01:45 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike1.png\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:01:45 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike2.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:01:45 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike7.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:02:31 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike1.png\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:02:31 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike2.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:02:31 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike7.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:02:38 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike1.png\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:02:38 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike2.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:02:38 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike7.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:08:45 --> Too few arguments to function App\Controllers\Shoe::__construct(), 4 passed in C:\xampp\htdocs\gauna_octavio\app\Controllers\Custom.php on line 36 and exactly 5 expected
+in APPPATH\Controllers\Custom.php on line 168.
+ 1 APPPATH\Controllers\Custom.php(36): App\Controllers\Shoe->__construct('Nike Air Force 1 Shadow', '¡Todo lo que te encanta de las AF1, pero duplicado! Las Nike Air Force 1 Shadow aportan un toque divertido a un icono del baloncesto para destacar lo mejor del ADN de las AF1. Los revestimientos a capas de piel lisa y texturizada se combinan con ante suave para añadir profundidad, mientras que el doble de logotipos y la mediasuela extragrande aportan un look llamativo a estas zapatillas.', 300, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->product()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:09:59 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Custom.php on line 178.
+ 1 APPPATH\Views\front\pages\ProductsPage.php(67): App\Controllers\Shoe->finalPrice()
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\ProductsPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 5 APPPATH\Controllers\Custom.php(82): view('front/pages/productsPage')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:10:41 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Custom.php on line 177.
+ 1 APPPATH\Views\front\pages\ProductsPage.php(67): App\Controllers\Shoe->finalPrice()
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\ProductsPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 5 APPPATH\Controllers\Custom.php(82): view('front/pages/productsPage')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:11:56 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike1.png\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:11:56 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike2.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:11:56 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike7.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:18:04 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike2.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:18:04 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike1.png\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:18:04 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike7.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:18:53 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike2.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:18:53 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike7.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:18:53 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike1.png\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:19:47 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike1.png\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:19:47 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike7.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:19:47 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike2.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:19:57 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike2.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:19:57 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike1.png\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:19:57 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike7.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:20:35 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike1.png\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:20:35 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike7.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:20:35 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike2.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:20:42 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike1.png\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:20:42 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike2.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 14:20:42 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(28): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/images/product/nike7.jpg\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 16:02:56 --> strlen() expects exactly 1 argument, 0 given
+in APPPATH\Views\front\pages\ProductsPage.php on line 52.
+ 1 APPPATH\Views\front\pages\ProductsPage.php(52): strlen()
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\ProductsPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 5 APPPATH\Controllers\Custom.php(82): view('front/pages/productsPage')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 16:04:14 --> strlen(): Argument #1 ($str) must be of type string, array given
+in APPPATH\Views\front\pages\ProductsPage.php on line 52.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 4 APPPATH\Controllers\Custom.php(82): view('front/pages/productsPage')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 16:04:15 --> strlen(): Argument #1 ($str) must be of type string, array given
+in APPPATH\Views\front\pages\ProductsPage.php on line 52.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 4 APPPATH\Controllers\Custom.php(82): view('front/pages/productsPage')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 16:04:31 --> Unmatched ')'
+in APPPATH\Views\front\pages\ProductsPage.php on line 52.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 3 APPPATH\Controllers\Custom.php(82): view('front/pages/productsPage')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 16:04:46 --> Unmatched ')'
+in APPPATH\Views\front\pages\ProductsPage.php on line 52.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 3 APPPATH\Controllers\Custom.php(82): view('front/pages/productsPage')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 16:05:17 --> Unmatched ')'
+in APPPATH\Views\front\pages\ProductsPage.php on line 52.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 3 APPPATH\Controllers\Custom.php(82): view('front/pages/productsPage')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 16:05:19 --> Unmatched ')'
+in APPPATH\Views\front\pages\ProductsPage.php on line 52.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 3 APPPATH\Controllers\Custom.php(82): view('front/pages/productsPage')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 16:05:19 --> Unmatched ')'
+in APPPATH\Views\front\pages\ProductsPage.php on line 52.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 3 APPPATH\Controllers\Custom.php(82): view('front/pages/productsPage')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 16:05:28 --> count() expects at least 1 argument, 0 given
+in APPPATH\Views\front\pages\ProductsPage.php on line 52.
+ 1 APPPATH\Views\front\pages\ProductsPage.php(52): count()
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\ProductsPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 5 APPPATH\Controllers\Custom.php(82): view('front/pages/productsPage')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 16:05:29 --> count() expects at least 1 argument, 0 given
+in APPPATH\Views\front\pages\ProductsPage.php on line 52.
+ 1 APPPATH\Views\front\pages\ProductsPage.php(52): count()
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\ProductsPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 5 APPPATH\Controllers\Custom.php(82): view('front/pages/productsPage')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 16:08:25 --> count() expects at least 1 argument, 0 given
+in APPPATH\Views\front\pages\ProductsPage.php on line 52.
+ 1 APPPATH\Views\front\pages\ProductsPage.php(52): count()
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\ProductsPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 5 APPPATH\Controllers\Custom.php(82): view('front/pages/productsPage')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 16:08:26 --> count() expects at least 1 argument, 0 given
+in APPPATH\Views\front\pages\ProductsPage.php on line 52.
+ 1 APPPATH\Views\front\pages\ProductsPage.php(52): count()
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\ProductsPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/productsPage', [], true)
+ 5 APPPATH\Controllers\Custom.php(82): view('front/pages/productsPage')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Custom->products()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Custom))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

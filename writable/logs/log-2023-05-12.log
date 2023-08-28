@@ -1,0 +1,1399 @@
+CRITICAL - 2023-05-12 02:23:41 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-12 02:25:24 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+WARNING - 2023-05-12 00:25:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:25:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:26:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:26:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:26:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:26:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:26:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:26:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:27:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:27:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:27:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:27:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:28:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:28:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:29:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:29:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:29:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:29:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:30:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:30:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:30:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:30:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:30:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:30:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:30:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:30:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:31:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:31:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:33:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:33:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:34:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:34:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:35:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:35:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:35:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:35:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:36:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:36:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:38:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:38:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-12 00:38:43 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(32): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: assets/css/bootstrap.bundle.min.js\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:38:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:38:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:39:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:39:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:39:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:39:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:39:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:39:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:39:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:39:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:39:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:39:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:39:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:39:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:40:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:40:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:40:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:40:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:40:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:40:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:41:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:41:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:41:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:41:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:42:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:42:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:42:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:42:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:42:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:42:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:43:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:43:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:43:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:43:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:43:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:43:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:43:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:43:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:43:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:43:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:43:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:43:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:43:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:43:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:44:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:44:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:44:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:44:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:45:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:45:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:45:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:45:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:46:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:46:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:46:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:46:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:47:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:47:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:47:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:47:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:47:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:47:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:47:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:47:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:47:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:47:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:48:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:48:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:48:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:48:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:48:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:48:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:48:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:48:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:49:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:49:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:49:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:49:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:49:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:49:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:50:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:50:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:50:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:50:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:50:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:50:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:50:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:50:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:50:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:50:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:52:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 00:52:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 01:07:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 01:07:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 01:16:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 01:16:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 01:16:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 01:16:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 01:16:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 01:16:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 01:17:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 01:17:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 01:17:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 01:17:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 02:09:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 02:09:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-12 02:09:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-12 02:09:08 --> Call to undefined function set_value()
+in APPPATH\Views\front\pages\LoginPage.php on line 42.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/LoginPage.php', [], true)
+ 4 APPPATH\Controllers\Main.php(134): view('front/pages/LoginPage.php')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->login()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 02:09:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 02:09:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-12 02:09:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-12 02:09:24 --> Call to undefined function set_value()
+in APPPATH\Views\front\pages\LoginPage.php on line 42.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/LoginPage.php', [], true)
+ 4 APPPATH\Controllers\Main.php(134): view('front/pages/LoginPage.php')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->login()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 02:17:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 02:17:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-12 02:17:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-12 02:17:23 --> Call to undefined function set_value()
+in APPPATH\Views\front\pages\LoginPage.php on line 42.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/LoginPage.php', [], true)
+ 4 APPPATH\Controllers\Main.php(134): view('front/pages/LoginPage.php')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->login()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-12 02:17:25 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(35): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Controller or its method is not found: \\App\\Controllers\\User::create')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-12 02:17:38 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(35): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Controller or its method is not found: \\App\\Controllers\\User::create')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-12 02:17:39 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(35): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Controller or its method is not found: \\App\\Controllers\\User::create')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-12 02:17:39 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(35): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Controller or its method is not found: \\App\\Controllers\\User::create')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-12 02:17:46 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(35): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Controller or its method is not found: \\App\\Controllers\\User::create')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-12 02:18:02 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(35): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Controller or its method is not found: \\App\\Controllers\\User::create')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-12 02:18:03 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(35): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Controller or its method is not found: \\App\\Controllers\\User::create')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-12 02:18:14 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(35): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Controller or its method is not found: \\App\\Controllers\\User::create')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-12 02:18:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 02:18:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 02:19:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-12 02:19:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 02:19:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-12 02:19:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-12 02:19:08 --> Call to undefined function set_value()
+in APPPATH\Views\front\pages\LoginPage.php on line 42.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/LoginPage.php', [], true)
+ 4 APPPATH\Controllers\Main.php(134): view('front/pages/LoginPage.php')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->login()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 02:19:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 02:19:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 02:19:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 02:19:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 02:19:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 02:19:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-12 02:19:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-12 02:19:15 --> Call to undefined function set_value()
+in APPPATH\Views\front\pages\LoginPage.php on line 42.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/LoginPage.php', [], true)
+ 4 APPPATH\Controllers\Main.php(134): view('front/pages/LoginPage.php')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->login()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-12 02:19:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-12 02:19:20 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(35): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'post: enviar-form\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-12 02:19:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 02:19:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 02:24:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 02:25:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 02:25:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-12 02:26:33 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(34): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'post: enviar-form\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 02:28:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 02:28:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 02:28:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 02:28:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-12 02:28:53 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(34): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: login\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-12 02:28:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 02:28:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-12 02:30:31 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(34): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'post: enviar-form\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-12 02:32:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 02:32:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-12 02:32:26 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(34): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'post: signup\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-12 02:32:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 02:32:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 02:32:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-12 02:32:32 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(34): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'post: signup\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-12 02:32:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-12 02:32:56 --> Undefined variable $title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(34): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'post: signup\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-12 02:33:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 02:33:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 02:34:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 02:34:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 02:34:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 02:35:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 02:35:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-12 02:35:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 02:35:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 02:35:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 02:35:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 02:35:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoes is deprecated in APPPATH\Controllers\Main.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-12 02:35:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Main::$shoe is deprecated in APPPATH\Controllers\Main.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Main->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-12 17:59:07 --> Undefined variable: title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9, [])
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(34): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: login\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-12 17:59:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:14:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-12 18:14:37 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\gauna_octavio\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\gauna_octavio\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', 'root', 'root', 'db_gauna_octavi...', 3306, '', 0)
+#1 C:\xampp\htdocs\gauna_octavio\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\gauna_octavio\system\Database\BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\gauna_octavio\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\gauna_octavio\system\Validation\StrictRules\Rules.php(206): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\gauna_octavio\system\Validation\Validation.php(312): CodeIgniter\Validation\StrictRules\Rules->is_unique('gvo@gmail.com', 'email', Array, NULL, 'email')
+#6 C:\xampp\htdocs\gauna_octavio\system\Validation\Validation.php(170): CodeIgniter\Validation\Validation->processRules('email', 'email', 'gvo@gmail.com', Array, Array)
+#7 C:\xampp\htdocs\gauna_octavio\system\Controller.php(140): CodeIgniter\Validation\Validation->run()
+#8 C:\xampp\htdocs\gauna_octavio\app\Controllers\UserController.php(24): CodeIgniter\Controller->validate(Array)
+#9 C:\xampp\htdocs\gauna_octavio\system\CodeIgniter.php(934): App\Controllers\UserController->formValidation()
+#10 C:\xampp\htdocs\gauna_octavio\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#11 C:\xampp\htdocs\gauna_octavio\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\gauna_octavio\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\gauna_octavio\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\gauna_octavio\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\gauna_octavio\system\Database\BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\gauna_octavio\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\gauna_octavio\system\Validation\StrictRules\Rules.php(206): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\gauna_octavio\system\Validation\Validation.php(312): CodeIgniter\Validation\StrictRules\Rules->is_unique('gvo@gmail.com', 'email', Array, NULL, 'email')
+#5 C:\xampp\htdocs\gauna_octavio\system\Validation\Validation.php(170): CodeIgniter\Validation\Validation->processRules('email', 'email', 'gvo@gmail.com', Array, Array)
+#6 C:\xampp\htdocs\gauna_octavio\system\Controller.php(140): CodeIgniter\Validation\Validation->run()
+#7 C:\xampp\htdocs\gauna_octavio\app\Controllers\UserController.php(24): CodeIgniter\Controller->validate(Array)
+#8 C:\xampp\htdocs\gauna_octavio\system\CodeIgniter.php(934): App\Controllers\UserController->formValidation()
+#9 C:\xampp\htdocs\gauna_octavio\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#10 C:\xampp\htdocs\gauna_octavio\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\gauna_octavio\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-05-12 18:14:37 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT 1
+FROM `usuarios`
+WHERE `email` = :email:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH\Validation\StrictRules\Rules.php(206): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\Validation\Validation.php(312): CodeIgniter\Validation\StrictRules\Rules->is_unique('gvo@gmail.com', 'email', [...], null, 'email')
+ 5 SYSTEMPATH\Validation\Validation.php(170): CodeIgniter\Validation\Validation->processRules('email', 'email', 'gvo@gmail.com', [...], [...])
+ 6 SYSTEMPATH\Controller.php(140): CodeIgniter\Validation\Validation->run()
+ 7 APPPATH\Controllers\UserController.php(24): CodeIgniter\Controller->validate([...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->formValidation()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-05-12 18:15:21 --> mysqli_sql_exception: Table 'db_gauna_octavio.usuarios' doesn't exist in C:\xampp\htdocs\gauna_octavio\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gauna_octavio\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\xampp\htdocs\gauna_octavio\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\xampp\htdocs\gauna_octavio\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\xampp\htdocs\gauna_octavio\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\gauna_octavio\system\Validation\StrictRules\Rules.php(206): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\gauna_octavio\system\Validation\Validation.php(312): CodeIgniter\Validation\StrictRules\Rules->is_unique('gvo@gmail.com', 'email', Array, NULL, 'email')
+#6 C:\xampp\htdocs\gauna_octavio\system\Validation\Validation.php(170): CodeIgniter\Validation\Validation->processRules('email', 'email', 'gvo@gmail.com', Array, Array)
+#7 C:\xampp\htdocs\gauna_octavio\system\Controller.php(140): CodeIgniter\Validation\Validation->run()
+#8 C:\xampp\htdocs\gauna_octavio\app\Controllers\UserController.php(24): CodeIgniter\Controller->validate(Array)
+#9 C:\xampp\htdocs\gauna_octavio\system\CodeIgniter.php(934): App\Controllers\UserController->formValidation()
+#10 C:\xampp\htdocs\gauna_octavio\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#11 C:\xampp\htdocs\gauna_octavio\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\gauna_octavio\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2023-05-12 18:15:21 --> Table 'db_gauna_octavio.usuarios' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT 1
+FROM `usuarios`
+WHERE `email` = \'gvo@gmail.com\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1
+FROM `usuarios`
+WHERE `email` = \'gvo@gmail.com\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1
+FROM `usuarios`
+WHERE `email` = \'gvo@gmail.com\'
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT 1
+FROM `usuarios`
+WHERE `email` = :email:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Validation\StrictRules\Rules.php(206): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\Validation\Validation.php(312): CodeIgniter\Validation\StrictRules\Rules->is_unique('gvo@gmail.com', 'email', [...], null, 'email')
+ 7 SYSTEMPATH\Validation\Validation.php(170): CodeIgniter\Validation\Validation->processRules('email', 'email', 'gvo@gmail.com', [...], [...])
+ 8 SYSTEMPATH\Controller.php(140): CodeIgniter\Validation\Validation->run()
+ 9 APPPATH\Controllers\UserController.php(24): CodeIgniter\Controller->validate([...])
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->formValidation()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-12 18:15:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:15:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-12 18:15:34 --> mysqli_sql_exception: Table 'db_gauna_octavio.usuarios' doesn't exist in C:\xampp\htdocs\gauna_octavio\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gauna_octavio\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\xampp\htdocs\gauna_octavio\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\xampp\htdocs\gauna_octavio\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\xampp\htdocs\gauna_octavio\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\gauna_octavio\system\Validation\StrictRules\Rules.php(206): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\gauna_octavio\system\Validation\Validation.php(312): CodeIgniter\Validation\StrictRules\Rules->is_unique('lou@gmail.com', 'email', Array, NULL, 'email')
+#6 C:\xampp\htdocs\gauna_octavio\system\Validation\Validation.php(170): CodeIgniter\Validation\Validation->processRules('email', 'email', 'lou@gmail.com', Array, Array)
+#7 C:\xampp\htdocs\gauna_octavio\system\Controller.php(140): CodeIgniter\Validation\Validation->run()
+#8 C:\xampp\htdocs\gauna_octavio\app\Controllers\UserController.php(24): CodeIgniter\Controller->validate(Array)
+#9 C:\xampp\htdocs\gauna_octavio\system\CodeIgniter.php(934): App\Controllers\UserController->formValidation()
+#10 C:\xampp\htdocs\gauna_octavio\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#11 C:\xampp\htdocs\gauna_octavio\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\gauna_octavio\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2023-05-12 18:15:34 --> Table 'db_gauna_octavio.usuarios' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT 1
+FROM `usuarios`
+WHERE `email` = \'lou@gmail.com\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1
+FROM `usuarios`
+WHERE `email` = \'lou@gmail.com\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1
+FROM `usuarios`
+WHERE `email` = \'lou@gmail.com\'
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT 1
+FROM `usuarios`
+WHERE `email` = :email:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Validation\StrictRules\Rules.php(206): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\Validation\Validation.php(312): CodeIgniter\Validation\StrictRules\Rules->is_unique('lou@gmail.com', 'email', [...], null, 'email')
+ 7 SYSTEMPATH\Validation\Validation.php(170): CodeIgniter\Validation\Validation->processRules('email', 'email', 'lou@gmail.com', [...], [...])
+ 8 SYSTEMPATH\Controller.php(140): CodeIgniter\Validation\Validation->run()
+ 9 APPPATH\Controllers\UserController.php(24): CodeIgniter\Controller->validate([...])
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->formValidation()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-12 18:16:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:16:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:16:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:16:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:19:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:20:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:20:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:21:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:21:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:21:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:21:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:27:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:27:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:27:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:28:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:29:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:31:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:31:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:32:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:32:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:32:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:32:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:34:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-12 18:34:27 --> "" is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 320.
+ 1 SYSTEMPATH\Validation\Validation.php(320): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('')
+ 2 SYSTEMPATH\Validation\Validation.php(170): CodeIgniter\Validation\Validation->processRules('firstname', 'firstname', 'OCT', [...], [...])
+ 3 SYSTEMPATH\Controller.php(140): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\UserController.php(36): CodeIgniter\Controller->validate([...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->formValidation()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-12 18:34:51 --> Undefined variable: title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9, [])
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(35): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: signup-\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-12 18:34:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:35:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:35:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:35:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:35:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:38:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:38:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:39:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:40:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:40:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:40:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:40:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:40:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:41:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:42:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:43:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:43:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:43:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:46:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:47:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:49:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:49:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:51:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:53:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:54:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:54:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:54:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-12 18:54:13 --> Undefined variable: title
+in APPPATH\Views\front\pages\HeaderPage.php on line 9.
+ 1 APPPATH\Views\front\pages\HeaderPage.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: title', 'C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php', 9, [])
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gauna_octavio\\app\\Views\\front\\pages\\HeaderPage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/pages/HeaderPage', [], true)
+ 5 APPPATH\Config\Routes.php(35): view('front/pages/HeaderPage')
+ 6 SYSTEMPATH\CodeIgniter.php(954): CodeIgniter\Router\RouteCollection->Config\{closure}('Can\'t find a route for \'get: login\'.')
+ 7 SYSTEMPATH\CodeIgniter.php(387): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-12 18:54:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:54:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:54:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:55:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:55:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:55:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:56:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:56:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:57:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:57:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:57:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:57:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:59:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 18:59:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:03:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:04:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:06:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:19:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:20:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:32:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:32:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:32:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:32:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:33:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:33:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:33:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:33:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:34:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:34:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:34:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:34:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:34:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:35:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:35:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:35:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:35:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:35:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:35:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:36:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:36:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:36:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:42:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:42:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:42:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:42:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:42:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-12 19:42:36 --> unlink(C:\xampp\htdocs\gauna_octavio\writable\debugbar/debugbar_1683920021.986563.json): No such file or directory
+in SYSTEMPATH\Debug\Toolbar\Collectors\History.php on line 76.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\xampp\\htdocs\\gauna_octavio\\writable\\debugbar/debugbar_1683920021.986563.json): No such file or directory', 'C:\\xampp\\htdocs\\gauna_octavio\\system\\Debug\\Toolbar\\Collectors\\History.php', 76, [...])
+ 2 SYSTEMPATH\Debug\Toolbar\Collectors\History.php(76): unlink('C:\\xampp\\htdocs\\gauna_octavio\\writable\\debugbar/debugbar_1683920021.986563.json')
+ 3 SYSTEMPATH\Debug\Toolbar.php(497): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles('1683920555.806200', 20)
+ 4 SYSTEMPATH\Debug\Toolbar.php(474): CodeIgniter\Debug\Toolbar->format([...], 'html')
+ 5 APPPATH\Config\Events.php(46): CodeIgniter\Debug\Toolbar->respond()
+ 6 SYSTEMPATH\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 7 SYSTEMPATH\CodeIgniter.php(350): CodeIgniter\Events\Events::trigger('pre_system')
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-12 19:42:36 --> file_get_contents(C:\xampp\htdocs\gauna_octavio\writable\debugbar/debugbar_1683920021.986563.json): failed to open stream: No such file or directory
+in SYSTEMPATH\Debug\Toolbar\Collectors\History.php on line 82.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\gauna_octavio\\writable\\debugbar/debugbar_1683920021.986563.json): failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\gauna_octavio\\system\\Debug\\Toolbar\\Collectors\\History.php', 82, [...])
+ 2 SYSTEMPATH\Debug\Toolbar\Collectors\History.php(82): file_get_contents('C:\\xampp\\htdocs\\gauna_octavio\\writable\\debugbar/debugbar_1683920021.986563.json')
+ 3 SYSTEMPATH\Debug\Toolbar.php(497): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles('1683920555.075495', 20)
+ 4 SYSTEMPATH\Debug\Toolbar.php(474): CodeIgniter\Debug\Toolbar->format([...], 'html')
+ 5 APPPATH\Config\Events.php(46): CodeIgniter\Debug\Toolbar->respond()
+ 6 SYSTEMPATH\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 7 SYSTEMPATH\CodeIgniter.php(350): CodeIgniter\Events\Events::trigger('pre_system')
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-12 19:42:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:43:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:43:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:43:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:43:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:44:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:44:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:44:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:44:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:45:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:45:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:45:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:46:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:46:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-12 19:46:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

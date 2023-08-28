@@ -1,0 +1,53 @@
+.account{
+   min-height: 95vh;
+   display: flex;
+   justify-content: center;
+   margin-top: 80px;
+}
+
+.account__wrapper {
+   display: flex;
+   flex-direction: column;
+   gap: 20px;
+   font-size: 16px;
+}
+
+.account__wrapper__title {
+   font-size: 2.5em;
+   font-family: var(--fontMain);
+   color: #000;
+   margin-bottom: .5em;
+   border-bottom: 1px solid #ccc;
+}
+.account__wrapper__form{
+   position: relative;
+}
+
+.account__wrapper__form__avatar{
+   position: absolute;
+   right: 0;
+   top: -12%;
+}
+
+.account__wrapper__form__avatar__img{
+   width: 60px;
+   height: 60px;
+   object-fit: cover;
+   border-radius: 50%;
+   position: relative;
+}
+
+.account__wrapper__form__avatar__input{
+   width: 60px;
+   height: 60px;
+   opacity: .0001;
+   position: absolute;
+   left: 0;
+   cursor: pointer;
+}
+
+@media (max-width:1400px) {
+   .account{
+      min-height: 140vh;
+   }
+}

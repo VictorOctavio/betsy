@@ -1,0 +1,121 @@
+.mycart{
+   min-height: 75vh;
+   margin-top: 30px;
+}
+
+.mycart__wrapper{
+   width: 100%;
+   height: 100%;
+}
+
+.mycart__wrapper__title{
+   font-size: 30px;
+}
+
+.mycart__wrapper__list{
+   display: flex;
+   flex-direction: column;
+   gap: 10px;
+   font-size: 16px;
+   max-height: 60vh;
+   overflow: auto;
+}
+
+.mycart__wrapper__list__item{
+   display: grid;
+   gap: 10px;
+   grid-template-columns: 20% 80%;
+   grid-template-rows: 1fr;
+   border: 1px solid #ccc;
+   border-radius: 5px;
+   padding: 10px;
+   min-height: 12vh;
+   background-color: white;
+}
+
+.mycart__wrapper__list__item__img{
+   background-position: center;
+   background-size: contain;
+   background-repeat: no-repeat;
+   background-size: 50%;
+}
+
+.mycart__wrapper__list__item__info{
+   display: grid;
+   grid-template-columns: 80% 20%;
+   grid-template-rows: 1fr;
+}
+
+.mycart__wrapper__list__item__info__text{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+}
+
+.mycart__wrapper__list__item__info__text h3{
+   font-family: var(--fontMan), cursive;
+   font-size: 1.6em;
+}
+
+.mycart__wrapper__list__item__info__text p{
+   color: rgb(8, 155, 16);
+   font-size: 1.6em;
+}
+
+.mycart__wrapper__list__item__info__options{
+   display: flex;
+   justify-content: center;
+   align-items: flex-end;
+   gap: 5px;
+}
+
+.mycart__wrapper__finish{
+   padding: 10px;
+   margin-top: 20px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   border: 1px solid #ccc;
+   border-radius: 5px;
+}
+
+.mycart__wrapper__finish p{
+   font-size: 20px;
+}
+
+.mycart__wrapper__finish__btns{
+   display: flex;
+   gap: 10px;
+}
+
+@media (max-width: 768px) {
+
+
+.mycart__wrapper__list{
+   font-size: 14px;   
+}
+.mycart__wrapper__list__item__info__options{
+   align-items: center;
+}
+
+.mycart__wrapper__finish p{
+   font-size: 20px;
+}
+}
+
+@media (max-width: 600px) {
+   .mycart__wrapper__list__item{
+      grid-template-columns: 1fr;
+      grid-template-rows: auto;
+      position: relative;
+   }
+
+   .mycart__wrapper__list__item__img{
+      position: absolute;
+      height: 100%;
+      width: 100%;
+      opacity: .3;
+      z-index: -1;
+      top: 0;
+   }
+}

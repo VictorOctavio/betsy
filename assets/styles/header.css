@@ -1,0 +1,69 @@
+.header{
+   height: 95vh;
+   background-position: center;
+   background-size: contain;
+   background: radial-gradient(circle at 24.1% 68.8%, rgb(36, 36, 36) 0%, rgb(0, 0, 0) 99.4%);
+   position: relative;
+   background-image: url('../images/w.jpg');
+   background-position: center;
+   background-size: contain;
+   background-position-x: right;
+}
+
+.header__wrapper{
+   width: 100%;
+   height: 100%;
+   background-color: #000000a4;
+}
+
+.header__wrapper__text{
+   color: white;
+   height: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   font-size: 16px;
+   gap: 10px;
+}
+
+.header__wrapper__text__title{
+   font-family: var(--fontMain), Arial, Helvetica, sans-serif;
+   font-size: 6em;
+   font-weight: 800;
+}
+
+.header__wrapper__text__subtitle{
+   margin-top: 20px;
+   font-size: 1em;
+   display: flex;
+   flex-direction: column;
+   font-weight: 300;
+   font-style: italic;
+   align-items: flex-end;
+}
+
+.header__wrapper__text__betsy{
+   color: crimson;
+   font-size: .9em;
+   font-weight: 600;
+}
+
+.shoe__svg{
+   position: absolute;
+   bottom:  10%;
+   left: 50%;
+}
+
+@media (max-width: 1000px) {
+   .header{
+      background-size: cover;
+      background-position: center;
+   }
+}
+
+@media (max-width: 800px) {
+   .header__wrapper__text{
+      font-size: 12px;
+   }
+}

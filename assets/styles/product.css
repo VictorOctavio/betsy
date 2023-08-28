@@ -1,0 +1,210 @@
+.product{
+   min-height: 93vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.product__wrapper{
+   display: flex;
+   flex-direction: column;
+   gap: 50px;
+}
+
+.product__wrapper__main{
+   display: grid;
+   grid-template-columns: 2fr 1fr;
+   gap: 10px;
+   grid-template-rows: 1fr;
+   height: 70vh;
+   overflow: hidden;
+}
+
+.product__wrapper__main__images{
+   display: grid;
+   grid-template-rows: 1fr;
+   grid-template-columns: 10% 90%;
+}
+
+.product__wrapper__main__images__galery{
+   display: flex;
+   flex-direction: column;
+   gap: 5px;
+}
+
+.product__wrapper__main__images__galery > img{
+   width: 50px;
+   height: 50px;
+   object-fit: contain;
+   border-radius: 3px;
+   border: 1px solid transparent;
+   transition: .2s;
+   cursor: pointer;
+}
+
+.product__wrapper__main__images__galery > img:hover{
+   border-color: crimson;
+}
+
+.product__wrapper__main__images__active{
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: contain;
+}
+
+
+/* DESCRIPTION */
+.product__wrapper__main__description{
+   height: 100%;
+   padding: 20px;
+   display: grid;
+   grid-template-columns: 1fr;
+   grid-template-rows: 1fr 6fr 1fr;
+   font-size: 16px;
+   position: relative;
+   overflow: hidden;
+   border: 1px solid #ccc;
+   background-color: white ;
+}
+
+.product__wrapper__main__description__title{
+   font-family: var(--fontMain), Verdana, sans-serif;
+   font-size: 2em;
+}
+
+.product__wrapper__main__description__info{
+   display: flex;
+   flex-direction: column;
+   margin-top: 30px !important;
+   overflow: auto;
+}
+
+.product__wrapper__main__description__info__text{
+  text-align: justify;
+  font-size: 1em;
+}
+
+
+.product__wrapper__main__price__btns{
+   display: grid;
+   grid-template-columns: 80% 20%;
+   grid-template-rows: 1fr;
+   gap: 5px;
+}
+
+.product__wrapper__main__price__btns button{
+   border-radius: 5px;
+}
+
+
+/* DESCRIPTION MORE */
+.product__wrapper__main__description__more{
+   position: absolute;
+   width: 100%;
+   right: 100%;
+   height: 100%;
+   background-color: rgb(32, 32, 32);
+   overflow: hidden;
+   transition: .3s ease;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   padding: 10px;
+}
+
+.product__wrapper__main__description__more.active{
+   right: 0%;
+}
+
+
+
+.product__wrapper__main__description__more__betsy{
+   position: absolute;
+   right: 1%;
+   top: 1%;
+   color: crimson;
+   font-size: 14px;
+   font-weight: bold;
+}
+
+.product__wrapper__main__description__more__back{
+   position: absolute;
+   left: 1%;
+   top: 0%;
+   color: white;
+   font-size: 20px;
+   cursor: pointer;
+   font-weight: bold;
+}
+
+/* comments */
+.product__wrapper__main__description__more--comments{
+   display: grid;
+   grid-template-columns: 1fr;
+   grid-template-rows: 80% 20%;
+   align-items: flex-start;
+   justify-content: flex-start;
+   padding: 5px 10px;
+}
+
+.product__wrapper__main__description__more__comments{
+   margin-top: 30px;
+   height: 90%;
+   overflow: auto;
+}
+
+.product__wrapper__main__description__more__comments__item{
+   background-color: white;
+   padding: 5px;
+   border-radius: 5px; 
+   margin-top: 5px;
+}
+
+
+
+@media (max-width: 1400px) {
+   .product{
+      min-height: 120vh;
+      margin-top: 50px;
+      align-items: flex-start;
+   }
+   
+   .product__wrapper__main{
+      height: 80vh;
+   }
+
+   .product__wrapper__main__description{
+      grid-template-rows: 1fr 4fr 1fr;
+   }
+}
+
+@media (max-width: 1250px) {
+   .product__wrapper__main{
+      grid-template-columns: 1fr 1fr;
+   }
+
+   .product__wrapper__main__images{
+      grid-template-columns: 1fr;
+      grid-template-rows: 10% 90%;
+   }
+
+   .product__wrapper__main__images__galery{
+      flex-direction: row;
+   }
+}
+
+@media (max-width: 900px) {
+   .product__wrapper__main{
+      min-height: 160vh;
+   }
+
+   .product__wrapper__main{
+      grid-template-columns: 1fr;
+      grid-template-rows: 50% 50%;
+   }
+   
+   .product__wrapper__main__description{
+      font-size: 14px;
+   }
+}

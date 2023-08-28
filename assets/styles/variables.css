@@ -1,0 +1,41 @@
+@font-face {
+    font-family: BebasNeue;
+    src: url('../font/BebasNeue.ttf');
+}
+
+body {
+    background-image: linear-gradient(45deg, transparent 20%, #d6d6d6 25%, transparent 25%), 
+                      linear-gradient(-45deg, transparent 20%, #d6d6d6 25%, transparent 25%), 
+                      linear-gradient(-45deg, transparent 75%, #d6d6d6 80%, transparent 0),
+                      radial-gradient(rgba(128, 128, 128, 0.233) 2px, transparent 0);
+    background-size: 30px 30px, 30px 30px;
+    overflow-x: hidden;
+  }
+
+:root{
+   --bgcolor: rgb(10, 10, 10);
+   --textcolor: rgb(82, 82, 82);
+   --bgcolorsecondary: crtomato;
+   --fontMain: BebasNeue;
+   --shadow: 2px 0px 18px 3px rgba(133, 133, 133, 0.497);
+}
+
+
+
+@import "../node_modules/bootstrap/scss/functions";
+
+
+
+@import "../node_modules/bootstrap/scss/variables";
+@import "../node_modules/bootstrap/scss/variables-dark";
+@import "../node_modules/bootstrap/scss/maps";
+@import "../node_modules/bootstrap/scss/mixins";
+@import "../node_modules/bootstrap/scss/root";
+
+
+@import "../node_modules/bootstrap/scss/utilities";
+@import "../node_modules/bootstrap/scss/reboot";
+@import "../node_modules/bootstrap/scss/containers";
+@import "../node_modules/bootstrap/scss/grid";
+@import "../node_modules/bootstrap/scss/helpers";
+@import "../node_modules/bootstrap/scss/utilities/api";
